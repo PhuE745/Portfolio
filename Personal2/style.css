@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color:white;
+}
+#Intro{
+    text-align: center;
+    color:white;
+    padding-top:5%; 
+}
+
+#Option{
+    margin:5%;
+    margin-right: 60%;
+    margin-top: 5%;
+    background-color:grey;
+    color: rgb(238, 238, 238); 
+}
+/*interaction*/
+#Option:hover{
+cursor: pointer;
+background-color: rgb(80, 79, 79);
+}
